@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Finish To-Do List project",
+        "done": true
+    },
+    {
+        "title": "Water the plants",
+        "done": false
+    }
+]
